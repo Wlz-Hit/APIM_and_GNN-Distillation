@@ -63,11 +63,11 @@ nohup python run.py  -model 'compgcn'  -read_setting 'no_negative_sampling' -neg
 
 
 
-## Acknowledgements
+<!-- ## Acknowledgements
 This implementation builds upon:
 
 [Are_MPNNs_helpful](https://github.com/Juanhui28/Are_MPNNs_helpful) for GNN architectures
 
 [SimKGC](https://github.com/intfloat/SimKGC) for KGC framework
 
-Funded by National Natural Science Foundation of China (62272129) and Shandong Provincial R&D Program (2023CXPT065).
+Funded by National Natural Science Foundation of China (62272129) and Shandong Provincial R&D Program (2023CXPT065). -->
