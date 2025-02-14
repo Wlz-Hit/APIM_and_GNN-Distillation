@@ -1,0 +1,7 @@
+output_test
+log/testrun
+**.log
+**.pyc
+test.ipynb
+log
+data
